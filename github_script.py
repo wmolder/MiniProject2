@@ -1,3 +1,5 @@
+## I couldn't get my notebook to run on either the hydra or my machine and since this needs a
+## linux distro, I had to use WSL. This generates the answers in a bit of a roundabout way.
 import json
 import os
 import time
